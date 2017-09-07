@@ -1,2 +1,2 @@
 # memeholic
-Android App about memes and memers.
+Android App about memes, for memers, from memers.
